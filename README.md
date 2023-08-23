@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi there ,I'm Müge 👋</h1>
 <h3 align="center">I'm a third -year Computer Engineering student at Karabuk University.</h3>
-<p align="center">
-  <img src="computerengineeering.jpg" width="600" height="300">
-</p>
+[![MasterHead](https://tr.pinterest.com/pin/463800461638111778/)
 
 - 🌱 I’m currently learning **Python**
 
