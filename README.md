@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there ,I'm Müge 👋</h1>
 <h3 align="center">I'm a third -year Computer Engineering student at Karabuk University.</h3>
-[![MasterHead](https://tr.pinterest.com/pin/463800461638111778/)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elmhurst.edu%2Fblog%2Fsoftware-developer-vs-software-engineer%2F&psig=AOvVaw2u5DLz6vw42YPGcy0IUTIT&ust=1692875420989000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCKwsLS8oADFQAAAAAdAAAAABAF)
 
 - 🌱 I’m currently learning **Python**
 
