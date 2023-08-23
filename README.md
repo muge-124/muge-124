@@ -1,7 +1,8 @@
-![programming](https://github.com/muge-124/muge-124/assets/109659237/d56160a2-4c2a-4e93-b930-4773e6a33172)<h1 align="center">Hi there ,I'm Müge 👋</h1>
+<h1 align="center">Hi there ,I'm Müge 👋</h1>
 <h3 align="center">I'm a third-year Computer Engineering student at Karabuk University.</h3>
-<img src="
-" alt="alt text" width="320" height="180">
+<p align="center">
+  <img src="programming.gif" width="600" height="300">
+</p>
 
 - 🌱 I’m currently learning: **Python**
 
@@ -9,8 +10,11 @@
 
 - ⚡ Fun fact: **I love to read 📖,swim 🏊‍♂️.**
 
-<h3 align="left">Connect with me:</h3>
+### 📫 Connect with me:
 <p align="left">
+  
+<a href="https://www.linkedin.com/in/mügeyılmaz/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="mügeyılmaz" height="30" width="40" /></a>
+<a href="mailto:mge304@hotmail.com" target="blank" rel="noreferrer"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="mügeyılmaz" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
