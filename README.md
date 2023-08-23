@@ -1,4 +1,4 @@
-https://pin.it/1pDtIrz
+
 <h1 align="center">Hi there ,I'm Müge 👋</h1>
 <h3 align="center">I'm a third -year Computer Engineering student at Karabuk University.</h3>
 
