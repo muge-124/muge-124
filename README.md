@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi there ,I'm Müge 👋</h1>
 <h3 align="center">I'm a third -year Computer Engineering student at Karabuk University.</h3>
+<p align="center">
+  <img src="![computerengineeering](https://github.com/muge-124/muge-124/assets/109659237/2263149d-d41e-4908-8c39-9109952b906b)
+" width="600" height="300">
+</p>
 
 - 🌱 I’m currently learning **Python**
 
