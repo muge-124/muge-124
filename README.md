@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Python**
 
-- 📫 How to reach me: **mge304@hotmail.com**
+- 📫 How to reach me: **mge_304@icloud.com**
 
 - ⚡ Fun fact: **I love to read 📖,swim 🏊‍♂️.**
 
