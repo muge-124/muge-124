@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning & Deep Learning Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://pin.it/1EE4o7Xh4" width="600px" align="center" />
+  <img src="[https://pin.it/1EE4o7Xh4](https://pin.it/1EE4o7Xh4)" width="600px" align="center" />
 </p>
 
 <p align="center">
