@@ -1,23 +1,50 @@
-<h1 align="center">Hi there ,I'm Müge 👋</h1>
-<h3 align="center">I'm a fourth-year Computer Engineering student at Karabuk University.</h3>
+### Hi there, I'm [Your Name] 👋
+
+I'm a passionate **Machine Learning & Deep Learning Engineer** working on **Time-Series Forecasting, Transformers, and Signal Processing**. 🚀
+
+- 🔭 I’m currently working on **Temporal Fusion Transformer (TFT) & Wav2Vec2 for signal classification**
+- 🌱 I’m learning **Transformers, PyTorch Forecasting, and Kaggle Competitions**
+- 🏆 Active on **Kaggle**: Exploring and competing in ML challenges
+- 💬 Ask me about **Deep Learning, Time-Series, and Transformers**
+- 📫 How to reach me: [Your Email] | [Your LinkedIn] | [Your Twitter]
+
+---
+
+### 🛠️ Tech Stack
+
+- **Programming:** Python, PyTorch, TensorFlow, SQL
+- **ML/DL Frameworks:** Scikit-learn, PyTorch Lightning, Hugging Face
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Deployment:** FastAPI, Docker, Streamlit
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="programming.gif" width="600" height="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 
-- 🌱 I’m currently learning: **Python**
-
-- 📫 How to reach me: **mge_304@icloud.com**
-
-- ⚡ Fun fact: **I love to read 📖,swim 🏊‍♂️.**
-
-### 📫 Connect with me:
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/mügeyılmaz/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="mügeyılmaz" height="30" width="40" /></a>
-<a href="mailto:mge304@hotmail.com" target="blank" rel="noreferrer"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="mügeyılmaz" height="50" width="50" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Your GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 Latest Projects
 
+- 🧠 [Project Name 1](https://github.com/your-username/project1) - Short description.
+- 🔬 [Project Name 2](https://github.com/your-username/project2) - Short description.
+- 🎯 [Project Name 3](https://github.com/your-username/project3) - Short description.
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+
+---
+
+🔥 Always exploring, always learning!
