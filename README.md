@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+![indir](https://github.com/user-attachments/assets/3a1a1493-b4e5-4c3c-ac98-f79f33c80c98)<h1 align="center">Hi 👋, I'm Müge </h1>
 <h3 align="center">A passionate Machine Learning & Deep Learning Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
+  <img src="https://pin.it/1EE4o7Xh4" width="600px" />
 </p>
 
 <p align="center">
