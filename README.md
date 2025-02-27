@@ -1,8 +1,8 @@
-![indir](https://github.com/user-attachments/assets/3a1a1493-b4e5-4c3c-ac98-f79f33c80c98)<h1 align="center">Hi 👋, I'm Müge </h1>
+<h1 align="center">Hi 👋, I'm Müge </h1>
 <h3 align="center">A passionate Machine Learning & Deep Learning Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://pin.it/1EE4o7Xh4" width="600px" />
+  <img src="https://pin.it/1EE4o7Xh4" width="600px" align="center" />
 </p>
 
 <p align="center">
@@ -25,15 +25,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" align="center" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" align="center" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" align="center" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🐍 Snake Game Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" align="center" />
 </p>
 
 ---
@@ -57,11 +57,4 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
-
----
-
-🔥 Always exploring, always learning! 🚀
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a
