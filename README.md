@@ -1,8 +1,8 @@
-<h1 align="center" style="color:#ff69b4; font-size: 40px;">Hello! I'm [Your Name] 💖</h1>
+<h1 align="center" style="color:#ff69b4; font-size: 40px;">Hello! I'm Müge Yılmaz 💖</h1>
 <h3 align="center" style="color:#5f9ea0; font-style: italic;">I do open source :)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/4XNP9z3hR)" width="600px" />
 </p>
 
 <p align="center">
@@ -15,11 +15,14 @@
 
 ## 📜 About Me
 
-- 💼 **Machine Learning & Deep Learning Engineer**
+- 💼 **Computer Engineer**
 - 🎯 Passionate about **Time-Series Forecasting, Transformers, and Signal Processing**
 - 🏆 Active on **Kaggle & Open Source Contributions**
 - 💬 Ask me about **Deep Learning, Time-Series, and Transformers**
-- 📫 Reach me at: [Your Email] | [Your LinkedIn] | [Your Twitter]
+- 📫 Reach me at:
+  - 📩 Email: [mge_304@icloud.com](mailto:your-email@example.com)
+  - 💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/m%C3%BCge-y%C4%B1lmaz-607a49236/)](https://www.linkedin.com/in/your-profile)
+  - 🐦 Twitter: [Your Twitter](https://twitter.com/your-profile)
 
 ---
 
@@ -61,15 +64,16 @@
 
 ### 🚀 Featured Projects
 
-- 🌟 [Project Name 1](https://github.com/your-username/project1) - Short description.
-- 🔬 [Project Name 2](https://github.com/your-username/project2) - Short description.
-- 🎯 [Project Name 3](https://github.com/your-username/project3) - Short description.
+- 🌟 [Project Name 1](https://github.com/muge-124/project1) - Short description.
+- 🔬 [Project Name 2](https://github.com/muge-124/project2) - Short description.
+- 🎯 [Project Name 3](https://github.com/muge-124/project3) - Short description.
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
