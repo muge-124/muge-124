@@ -25,6 +25,8 @@
   - 🐦 Twitter: [Your Twitter](https://twitter.com/your-profile)
 
 ---
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=rabiasm&color=blue)
+---
 
 ### 🛠 Tech Stack
 
