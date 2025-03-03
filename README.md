@@ -48,14 +48,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muge-124&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muge-124&theme=radical" alt="GitHub Streak" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muge-124&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 
 ### 🐍 Snake Game Contribution Graph
