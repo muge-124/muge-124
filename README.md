@@ -2,7 +2,8 @@
 <h3 align="center" style="color:#5f9ea0; font-style: italic;">I do open source :)</h3>
 
 <p align="center">
-  <img src="[https://pin.it/4pekhz9oP](https://pin.it/1hHonYJJb)" width="600px" />
+  ![GIF Açıklaması]([assets/mygif.gif](https://pin.it/4ei6daY0f))
+
 </p>
 
 <p align="center">
