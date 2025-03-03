@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # En güncel sürüme geçiş yapıldı
+        uses: actions/checkout@v4  # v3 yerine v4 kullanıldı
 
       - name: Ensure output directory exists
         run: mkdir -p dist
@@ -22,8 +22,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Push Snake to Output Branch
+      - name: Upload Snake SVG Artifact
         uses: actions/upload-artifact@v4  # v3 yerine v4 kullanıldı
         with:
           name: snake
-          path: dist/snake.svg
+         
