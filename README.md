@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#ff69b4; font-size: 40px;">Hello! I'm Müge Yılmaz 💖</h1>
-<h3 align="center" style="color:#5f9ea0; font-style: italic;">I do open source :)</h3>
+<h3 align="center" style="color:#5f9ea0; font-style: italic;"></h3>
 
 <p align="center">
   <img src="indir (2).gif" width="300"/>
