@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#5f9ea0; font-style: italic;">I do open source :)</h3>
 
 <p align="center">
-  <img src="indir (2).gif" width="500"/>
+  <img src="indir (2).gif" width="300"/>
 </p>
 
 
