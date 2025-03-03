@@ -2,9 +2,9 @@
 <h3 align="center" style="color:#5f9ea0; font-style: italic;">I do open source :)</h3>
 
 <p align="center">
-  ![GIF Açıklaması]([assets/mygif.gif](https://pin.it/4ei6daY0f))
-
+  <img src="https://your-gif-url.gif" alt="GIF Açıklaması" width="500"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/your-username">
