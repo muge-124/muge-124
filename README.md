@@ -56,29 +56,19 @@
 </p>
 
 
-
 ### 🐍 Snake Game Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/muge-124/muge-124/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
 
-### 🚀 Featured Projects
-
-- 🌟 [Project Name 1](https://github.com/muge-124/project1) - Short description.
-- 🔬 [Project Name 2](https://github.com/muge-124/project2) - Short description.
-- 🎯 [Project Name 3](https://github.com/muge-124/project3) - Short description.
-
----
 
 ### 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
