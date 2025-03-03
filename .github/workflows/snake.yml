@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # En güncel sürüme geçiş yapıldı
 
       - name: Ensure output directory exists
         run: mkdir -p dist
@@ -22,10 +22,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Commit and push the snake animation
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Generated contribution grid snake"
-          git push
+      - name: Push Snake to Output Branch
+        uses: actions/upload-artifact@v4  # v3 yerine v4 kullanıldı
+        with:
+          name: snake
+          path: dist/snake.svg
