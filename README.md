@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#5f9ea0; font-style: italic;">I do open source :)</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/4XNP9z3hR)" width="600px" />
+  <img src="https://pin.it/4pekhz9oP" width="600px" />
 </p>
 
 <p align="center">
