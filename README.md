@@ -21,9 +21,9 @@
 - 🏆 Active on **Kaggle & Open Source Contributions**
 - 💬 Ask me about **Deep Learning, Time-Series, and Transformers**
 - 📫 Reach me at:
-  - 📩 Email: [mge_304@icloud.com](mailto:your-email@example.com)
-  - 💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/m%C3%BCge-y%C4%B1lmaz-607a49236/)](https://www.linkedin.com/in/your-profile)
-  - 🐦 Twitter: [Your Twitter](https://twitter.com/your-profile)
+  - 📩 Email: [mge_304@icloud.com](mailto:mge_304@icloud.com)
+  - 💼 LinkedIn: [Müge Yılmaz](https://www.linkedin.com/in/m%C3%BCge-y%C4%B1lmaz-607a49236/)
+  - ✍️ Medium: [@mugeyilmaz](https://medium.com/@mugeyilmaz)
 
 ---
 ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=rabiasm&color=blue)
